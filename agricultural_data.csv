@@ -1,0 +1,16 @@
+date,farm,field,crop,yield_per_acre,moisture_content
+2022-01-01,Farm A,Field 1,wheat,60,15
+2022-01-02,Farm A,Field 1,wheat,65,13
+2022-01-03,Farm A,Field 1,wheat,70,12
+2022-01-04,Farm A,Field 1,wheat,75,14
+2022-01-05,Farm A,Field 1,wheat,80,10
+2022-01-01,Farm B,Field 2,corn,90,20
+2022-01-02,Farm B,Field 2,corn,95,18
+2022-01-03,Farm B,Field 2,corn,100,17
+2022-01-04,Farm B,Field 2,corn,105,19
+2022-01-05,Farm B,Field 2,corn,110,15
+2022-01-01,Farm C,Field 3,soybeans,40,22
+2022-01-02,Farm C,Field 3,soybeans,45,20
+2022-01-03,Farm C,Field 3,soybeans,50,19
+2022-01-04,Farm C,Field 3,soybeans,55,21
+2022-01-05,Farm C,Field 3,soybeans,60,17
